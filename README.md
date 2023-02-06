@@ -8,4 +8,5 @@ Our team was tasked with reimplementing the Atelier API, a retail API, to scale 
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 
 ## Database Schema
+<img width="1173" alt="SDC Q and A DB Model" src="[https://user-images.githubusercontent.com/57077900/207983829-fe198544-6f47-4e0a-80d0-ac856172deae.png](https://user-images.githubusercontent.com/102435134/217055392-5f2a75e8-e7c7-4b28-bf8b-941785c28f51.png)">
 ![image](https://user-images.githubusercontent.com/102435134/217055392-5f2a75e8-e7c7-4b28-bf8b-941785c28f51.png)
