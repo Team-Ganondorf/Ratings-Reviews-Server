@@ -11,4 +11,6 @@ Our team was tasked with reimplementing the Atelier API, a retail API, to scale 
 <img width="700" alt="SDC Reviews & Ratings DB Model" src="https://user-images.githubusercontent.com/102435134/217055392-5f2a75e8-e7c7-4b28-bf8b-941785c28f51.png">
 
 ## Technical Challenges
-  - 
+  - Assembling complex queries using JSON Aggregate fuctions slowed down my response times intially but was able to incorporate indexing to speed up times by 100x.
+  - Importing legacy data from old csv files was a challenge because I had to make sure the data was correctly seeded into new tables.
+  - Caching results from queries allowed me to get my response times under 10ms.
